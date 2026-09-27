@@ -1,6 +1,6 @@
 {
-  "version": "8.1",
-  "package_url": "https://raw.githubusercontent.com/Tiopatinhas13/jarvis-updates/main/JARVIS_UPDATE_8_1.zip",
-  "sha256": "017ec03e6ae29294d215c801f8150fa94eae663eb570a4346dbd5b72a0496a8f",
-  "notes": "Notas rápidas, busca local de arquivos, modo ditado, temporizadores, abertura mais natural de apps e camada de intenção para comandos."
+  "version": "8.2",
+  "package_url": "https://raw.githubusercontent.com/Tiopatinhas13/jarvis-updates/main/JARVIS_UPDATE_8_2.zip",
+  "sha256": "e479e3e684440775362de315fcf38ff916c977670af1e9a0915fba823bf131c5",
+  "notes": "Versão 8.2 preparada automaticamente a partir do código local validado."
 }
