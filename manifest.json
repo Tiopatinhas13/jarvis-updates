@@ -1,0 +1,6 @@
+{
+  "version": "8.0.2",
+  "package_url": "https://raw.githubusercontent.com/Tiopatinhas13/jarvis-updates/main/JARVIS_UPDATE_8_0_2.zip",
+  "sha256": "10029e88fb2d2624726f575ed954cf9c970320b24df9e4f7158f359348e575c4",
+  "notes": "Ativa atualização remota via GitHub e corrige verificação quando já está na versão mais recente."
+}
