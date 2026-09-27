@@ -1,6 +1,6 @@
 {
-  "version": "8.3",
-  "package_url": "https://raw.githubusercontent.com/Tiopatinhas13/jarvis-updates/main/JARVIS_UPDATE_8_3.zip",
-  "sha256": "239e63658e27d666a2fb5ecac8a5d1fc039af71f7dae7ffab544085496c18c53",
-  "notes": "Versão 8.3 preparada automaticamente a partir do código local validado."
+  "version": "8.4",
+  "package_url": "https://raw.githubusercontent.com/Tiopatinhas13/jarvis-updates/main/JARVIS_UPDATE_8_4.zip",
+  "sha256": "e1a11033e230170a89c133def323cf28d209c0f41eab21c1d78624a295352d3a",
+  "notes": "Versão 8.4 preparada automaticamente a partir do código local validado."
 }
